@@ -1,6 +1,6 @@
 import unittest
 
-from hashtable import HashTable
+from hashtable2day import HashTable
 
 
 class TestHashTable(unittest.TestCase):
